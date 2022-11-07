@@ -61,7 +61,7 @@ export class App extends Component {
               />
             </Section>
           </Box>
-          <Box bg="footerBG" gicolor="secondary" height="124px">
+          <Box bg="footerBG" color="secondary" height="124px">
             <Section title="Statistics">
               {total ? (
                 <Statistics

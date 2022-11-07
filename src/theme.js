@@ -12,8 +12,8 @@ export const theme = {
     third: '#797979',
     notification: '#999999',
 
-    titleBG: '#799cff',
-    footerBG: '#799cff',
+    titleBG: '#342111',
+    footerBG: '#342111',
 
     good: '#dbfde3',
     neutral: '#ffffd9',
