@@ -16,7 +16,9 @@ export class App extends Component {
         justifyContent="center"
         fontSize="xxl"
         color="primary"
-      ></Box>
+      >
+        <AppStyled>My React Boilerplate</AppStyled>
+      </Box>
     );
   }
 }
