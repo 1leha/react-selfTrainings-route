@@ -35,7 +35,6 @@ export class App extends Component {
   };
 
   render() {
-    <div>11111111111111</div>;
     const buttons = Object.keys(this.state);
     const { good, neutral, bad } = this.state;
 
@@ -43,7 +42,7 @@ export class App extends Component {
 
     return (
       <Box
-        height="wholeHeight"
+        height="100vh"
         display="flex"
         flexDirection="column"
         alignItems="center"

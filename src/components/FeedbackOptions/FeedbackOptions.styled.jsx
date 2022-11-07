@@ -10,7 +10,7 @@ export const FeedbackButtonStyled = styled.button`
 
   font-size: ${p => p.theme.fontSizes.m};
   color: ${p => p.theme.colors.third};
-  background-color: ${p => p.theme.colors[p.bg]};
+  background-color: ${p => p.theme.colors[p.buttonBG]};
 
   transition: all 0.3s ease;
 

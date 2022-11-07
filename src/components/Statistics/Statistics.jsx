@@ -1,6 +1,6 @@
 import React from 'react';
-import { Box } from 'components/Box';
 import PropTypes from 'prop-types';
+import { Box } from 'components/Box';
 import {
   StatisticsListItemStyled,
   StatisticsTotalStyled,

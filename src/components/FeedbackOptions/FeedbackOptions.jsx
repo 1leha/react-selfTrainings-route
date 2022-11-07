@@ -10,7 +10,7 @@ export default function FeedbackOptions({ options, onLeaveFeedback }) {
         return (
           <li key={option}>
             <FeedbackButtonStyled
-              bg={option}
+              buttonBG={option}
               type="button"
               onClick={() => onLeaveFeedback(option)}
             >
